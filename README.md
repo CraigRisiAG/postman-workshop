@@ -1,4 +1,4 @@
-# explore-with-postman
-A forked copy of Amber Race's Test Automation University course code, to accompany Beth Marshall's Test Automation University Course, "API Test Automation With Postman".
+# postman-workshop
+A set of Postman scripts designed to introduce people to automated tests in Postman.
 
-You can discover more of Amber's amazing code for API exploratory testing on her github page here: https://github.com/ambertests
+These are based on an API exploratory testing exercise that can be found here: https://github.com/ambertests
